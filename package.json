@@ -1,0 +1,8 @@
+{
+  "name": "ecoleta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuel-santos-batista/ecoleta.git",
+  "author": "samuel <samuelsantxxi@gmail.com>",
+  "license": "MIT"
+}
